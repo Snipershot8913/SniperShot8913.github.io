@@ -1,0 +1,39 @@
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Birds </title>
+        
+        <style>
+	body {background-color:#64B5F6;}
+	h1 {background-color:#00ACC1;font-family: "Edwardian Script ITC" ,serif; font-size: 80px;}
+	.intro {  font-family: "Bell MT", serif; color: #000000; font-size:25px;}
+	.leftlist {font-family : "Edwardian Script ITC" , serif; font-size: 1.5em;}
+	.rightlist {float:right; font-family : "Edwardian Script ITC" , serif; font-size: 1.5em;}
+        </style>
+
+	 </head>
+
+        <body style="
+    	width: 960px;">
+
+	<h1 style="
+ 	 margin-top: -0.1em;
+   	 margin-bottom: 0px;
+   	 border-left-width: 10px;
+   	 padding-left: 30px;
+   	 margin-left: -20px;
+   	 padding-bottom: 20px;
+   	 margin-right: -4.2em;
+   	 padding-top: 0.5em;">
+
+	My Favorit Birds <br>
+	<p class=intro> Hi i am Noah Anderson 
+	<br> This web page shows some of my favorit bird photos I have taken well also learing HTML and CSS 
+	<br> click the images for more info about each bird
+	<br> Hope you like it <br> <br>
+        <span class = leftlist> <a href = "borealowl.html"> <img src="images/BorealOwl.jpg" alt="Boreal Owl" width="300" hight="300"> </a>Boreal Owl</span> 
+	<span class = rightlist style="padding-right:2em;"> Black Capped Chickadee <a href = "blackcappedchickadee.html"> <img src="images/Chikadee.jpg" alt="Black Capped Chickadee" width="350" hight="400"> </a> </span>
+	</p>
+	</body>
+</html>
