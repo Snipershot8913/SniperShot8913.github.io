@@ -1,1 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title> Map project  </title>
+        
+        <style>
+	body {background-color:#64B5F6;}
+  .title {font-size:1.5em}
 
+	 </head>
+	</style>
+        <body style="
+    	width: 99.3%;">
+	<body>
+	<h1 class="title">
+ 
+</h1>
+		
+	</body>
+</html>
